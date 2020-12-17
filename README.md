@@ -1,1 +1,2 @@
-# pjschildminding.github.io
+# PJsChildminding
+Working repository for company website.
